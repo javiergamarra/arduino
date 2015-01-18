@@ -1,3 +1,5 @@
 *.prefs
 *.class
 TwitterWithArduino/bin/twitter4j.properties
+POV/POV.mp4
+*.mp4
